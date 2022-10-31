@@ -4,3 +4,4 @@ out = 'out'
 libs = ['lib']
 verbosity = 3
 eth-rpc-url = "https://eth-mainnet.alchemyapi.io/v2/JrCVyH87AyAZaGXaIaxhWce4x-JqR7z-"
+fork_block_number = 15869742
